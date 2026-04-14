@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "description": "A practical guide to building good habits and breaking bad ones through small, consistent changes.",
+    "rating": 4.8,
+    "url": "https://example.com/atomic-habits"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "description": "Bilbo Baggins joins a dangerous adventure with dwarves to reclaim a lost kingdom from a dragon.",
+    "rating": 4.7,
+    "url": "https://example.com/the-hobbit"
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "description": "An astronaut stranded on Mars uses science and creativity to survive and contact Earth.",
+    "rating": 4.6,
+    "url": "https://example.com/the-martian"
+  }
+]

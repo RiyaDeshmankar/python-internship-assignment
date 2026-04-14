@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Which book is best for improving everyday habits?",
+    "expected_focus": "Self-help recommendations and habit-building summaries"
+  },
+  {
+    "question": "Suggest a fantasy book with an adventurous journey.",
+    "expected_focus": "Fantasy genre and related recommendations"
+  },
+  {
+    "question": "Which book talks about surviving on Mars?",
+    "expected_focus": "Science-fiction context with source citations"
+  }
+]
