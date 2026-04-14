@@ -1,4 +1,4 @@
-Django>=6.0,<6.1
+git branch -M mainDjango>=6.0,<6.1
 djangorestframework>=3.16,<3.17
 PyMySQL>=1.1,<2.0
 selenium>=4.21,<5.0
