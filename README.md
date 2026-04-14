@@ -171,12 +171,17 @@ Sample input data is provided in:
 
 ## Screenshots
 
-Add 3-4 UI screenshots under `docs/screenshots/` and keep this section updated:
+### Dashboard Page
+![Dashboard](docs/screenshots/dashboard.png)
 
-- `docs/screenshots/dashboard.png`
-- `docs/screenshots/book-detail.png`
-- `docs/screenshots/qa-page.png`
-- `docs/screenshots/qa-answer.png`
+### Book Detail Page
+![Book Detail](docs/screenshots/book-detail.png)
+
+### Question Answer Page
+![Q&A](docs/screenshots/qa-page.png)
+
+### Answer Output
+![Answer](docs/screenshots/qa-answer.png)
 
 ## Running Tests
 
